@@ -2,5 +2,5 @@
 Primeiro desafio de projeto DIO - GIT GITHUB
 
 
-Link útil:
+Links úteis:
 [Sintaxe básica Markdown](https://www.markdownguide.org/)
